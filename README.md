@@ -3,8 +3,7 @@ Chip Interface Sepcification Language
 
 ## Chisl Syntax ##
 
-The Chisl syntax is rather simple. To get a first impression
-please browse to [http://chisl.io](http://chisl.io) and open the file `MPU60X0` (file->open->MPU-60X0). What you see is the interface definition for the MPU-60X0 (a chip for 6-axis motion tracking). The interface definition contains general 
+Chisl has a quite simple syntax for defining interfaces to integrated circuits (sensors, transceivers, PMICs, etc.). To get a first impression browse to [http://chisl.io](http://chisl.io) and open the file `MPU60X0` (file->open->MPU-60X0). What you see is the interface definition for the MPU-60X0 (a chip for 6-axis motion tracking). The interface definition contains general 
 information about the chip and detailed information about the function of each
 register of the chip.
 
